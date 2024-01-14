@@ -1,0 +1,18 @@
+.LoginForm {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    display: flex; /* Añadido para flexbox */
+    flex-direction: column; /* Añadido para alinear elementos verticalmente */
+    align-items: center; /* Añadido para centrar elementos horizontalmente */
+    margin-top: 25vh;
+  }
+  
+  .LoginButton {
+    margin-top: 10px;
+    padding: 15px;
+    margin: auto;
+    display: block; /* Asegura que el botón se trate como un bloque */
+  }
+  
